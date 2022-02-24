@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github]()
-- Live Site URL: [github]()
+- Live Site URL: [github](https://igmominkhan.github.io/order-summary/)
 
 ## My process
 
